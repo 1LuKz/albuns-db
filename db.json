@@ -7,6 +7,14 @@
          "descricao":"As Ilhas Okinawa são conhecidas por “Havaí do Japão” devido às suas belas praias e pelo clima predominantemente quente.",
          "data":"03/12/2023",
          "img_capa":"https://catracalivre.com.br/wp-content/uploads/2020/02/istock-948421120-910x603.jpg"
+      },
+      {
+         "id": 2,
+         "titulo": "Roma - Itália",
+         "autor": "Lucas",
+         "descricao": "Roma, um dos pontos turisticos mais lindos do mundo!",
+         "data": "03/12/2023",
+         "img_capa": "https://estudarfora.org.br/wp-content/uploads/2017/11/FE-EF-4.jpg"
       }
    ],
    "mapa":[
