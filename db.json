@@ -1,129 +1,129 @@
 {
-    "albuns": [
-        {
-            "id": 1,
-            "titulo": "Okinawa",
-            "autor": "Lucas",
-            "descricao": "As Ilhas Okinawa são conhecidas por “Havaí do Japão” devido às suas belas praias e pelo clima predominantemente quente.",
-            "data": "03/12/2023",
-            "img_capa": "https://catracalivre.com.br/wp-content/uploads/2020/02/istock-948421120-910x603.jpg"
-        },
-    ],
-    "mapa": [
-        {
-            "id": 1,
-            "id_album": 1,
-            "cordenadas": "26.33583, 127.80139",
-        },
-    ], 
-    "fotos": [
-        {
-            "id": 1,
-            "album_id": "1",
-            "url_img": "https://digital.ihg.com/is/image/ihg/intercontinental---ana-okinawa-6162599978-4x3",     
-            "descricao": "Hotel de praia em Okinawa"
-        },
-        {
-            "id": 2,
-            "album_id": "1",
-            "url_img": "https://www.segurospromo.com.br/blog/wp-content/uploads/2023/04/Okinawa-Japao.jpg",     
-            "descricao": "Paisagem em Okinawa"
-        },
-        {
-            "id": 3,
-            "album_id": "1",
-            "url_img": "https://a.cdn-hotels.com/gdcs/production23/d1444/f8bfb31b-d965-4517-8d24-80e4e6c78ed1.jpg",     
-            "descricao": "Praia de Okinawa"
-        },
-        {
-            "id": 4,
-            "album_id": "1",
-            "url_img": "https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",     
-            "descricao": "Templo da cultura local"
-        },
-        {
-            "id": 5,
-            "album_id": "1",
-            "url_img": "https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",     
-            "descricao": "Templo da cultura local"
-        },
-        {
-            "id": 6,
-            "album_id": "1",
-            "url_img": "https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",     
-            "descricao": "Templo da cultura local"
-        },
-        {
-            "id": 7,
-            "album_id": "1",
-            "url_img": "https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",     
-            "descricao": "Templo da cultura local"
-        },
-        {
-            "id": 8,
-            "album_id": "1",
-            "url_img": "https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",     
-            "descricao": "Templo da cultura local"
-        },
-        {
-          "id": 9,
-          "album_id": "2",
-          "url_img": "https://images.prismic.io/mystique/c8ab983f-b9db-47aa-a4d7-e42cea1db7e8_Colosseum+night+tours.jpg?auto=compress,format",
-          "descricao": "Coliseu à noite"
-        },
-        {
-          "id": 10,
-          "album_id": "2",
-          "url_img": "https://cdn-imgix.headout.com/media/images/edeb9e4ee3562a15e2e1a63cd9842f34-Castel%20Sant'Angelo%20bridge.jpg?auto=format&w=713.0666666666667&h=458.4&q=90&fit=crop&ar=14%3A9",
-          "descricao": "Ponte Sant'Angelo"
-        },
-        {
-          "id": 11,
-          "album_id": "2",
-          "url_img": "https://turismo.eurodicas.com.br/wp-content/uploads/2018/10/fontana-di-trevi-1.jpg",
-          "descricao": "Fontana di Trevi"
-        },
-        {
-          "id": 12,
-          "album_id": "2",
-          "url_img": "https://turismo.eurodicas.com.br/wp-content/uploads/2019/03/piazza-navona-1.jpg",
-          "descricao": "Piazza Navona"
-        },
-        {
-          "id": 13,
-          "album_id": "2",
-          "url_img": "https://cdn-imgix.headout.com/microbrands-content-image/image/4c39598de5ac2156718d098ce5e26a26-Plan%20your%20Visit.jpg?auto=format&w=713.0666666666667&h=458.4&q=90&fit=crop&ar=14%3A9",
-          "descricao": "Vaticano"
-        },
-        {
-          "id": 14,
-          "album_id": "2",
-          "url_img": "https://cdn.getyourguide.com/img/location/535e42f7ac585.jpeg/99.jpg",
-          "descricao": "Fórum Romano"
-        },
-        {
-          "id": 15,
-          "album_id": "2",
-          "url_img": "https://viajantesemfim.com.br/wp-content/uploads/2020/02/83763343_2683527665100320_4485675345864818688_o-800x500.jpg",
-          "descricao": "Pantheon"
-        },
-        {
-          "id": 16,
-          "album_id": "2",
-          "url_img": "https://img.freepik.com/fotos-premium/vista-aerea-do-forum-romano-do-monte-palatino-roma-italia_115067-199.jpg?w=2000",
-          "descricao": "Vista do Monte Palatino"
-        }
-    ],
-    "destaques": [
-        {
-            "id": 1,
-            "id_album": 1,
-            "texto": ""
-        },
-        {
-            "id": 2,
-            "id_album": 2,
-            "texto": ""
-        }        
-    ]
+   "albuns":[
+      {
+         "id":1,
+         "titulo":"Okinawa",
+         "autor":"Lucas",
+         "descricao":"As Ilhas Okinawa são conhecidas por “Havaí do Japão” devido às suas belas praias e pelo clima predominantemente quente.",
+         "data":"03/12/2023",
+         "img_capa":"https://catracalivre.com.br/wp-content/uploads/2020/02/istock-948421120-910x603.jpg"
+      }
+   ],
+   "mapa":[
+      {
+         "id":1,
+         "id_album":1,
+         "cordenadas":"26.33583, 127.80139"
+      }
+   ],
+   "fotos":[
+      {
+         "id":1,
+         "album_id":"1",
+         "url_img":"https://digital.ihg.com/is/image/ihg/intercontinental---ana-okinawa-6162599978-4x3",
+         "descricao":"Hotel de praia em Okinawa"
+      },
+      {
+         "id":2,
+         "album_id":"1",
+         "url_img":"https://www.segurospromo.com.br/blog/wp-content/uploads/2023/04/Okinawa-Japao.jpg",
+         "descricao":"Paisagem em Okinawa"
+      },
+      {
+         "id":3,
+         "album_id":"1",
+         "url_img":"https://a.cdn-hotels.com/gdcs/production23/d1444/f8bfb31b-d965-4517-8d24-80e4e6c78ed1.jpg",
+         "descricao":"Praia de Okinawa"
+      },
+      {
+         "id":4,
+         "album_id":"1",
+         "url_img":"https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",
+         "descricao":"Templo da cultura local"
+      },
+      {
+         "id":5,
+         "album_id":"1",
+         "url_img":"https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",
+         "descricao":"Templo da cultura local"
+      },
+      {
+         "id":6,
+         "album_id":"1",
+         "url_img":"https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",
+         "descricao":"Templo da cultura local"
+      },
+      {
+         "id":7,
+         "album_id":"1",
+         "url_img":"https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",
+         "descricao":"Templo da cultura local"
+      },
+      {
+         "id":8,
+         "album_id":"1",
+         "url_img":"https://storage.googleapis.com/akirs-site.appspot.com/1/2023/02/sho-k-1twczdE1zlE-unsplash.jpg",
+         "descricao":"Templo da cultura local"
+      },
+      {
+         "id":9,
+         "album_id":"2",
+         "url_img":"https://images.prismic.io/mystique/c8ab983f-b9db-47aa-a4d7-e42cea1db7e8_Colosseum+night+tours.jpg?auto=compress,format",
+         "descricao":"Coliseu à noite"
+      },
+      {
+         "id":10,
+         "album_id":"2",
+         "url_img":"https://cdn-imgix.headout.com/media/images/edeb9e4ee3562a15e2e1a63cd9842f34-Castel%20Sant'Angelo%20bridge.jpg?auto=format&w=713.0666666666667&h=458.4&q=90&fit=crop&ar=14%3A9",
+         "descricao":"Ponte Sant'Angelo"
+      },
+      {
+         "id":11,
+         "album_id":"2",
+         "url_img":"https://turismo.eurodicas.com.br/wp-content/uploads/2018/10/fontana-di-trevi-1.jpg",
+         "descricao":"Fontana di Trevi"
+      },
+      {
+         "id":12,
+         "album_id":"2",
+         "url_img":"https://turismo.eurodicas.com.br/wp-content/uploads/2019/03/piazza-navona-1.jpg",
+         "descricao":"Piazza Navona"
+      },
+      {
+         "id":13,
+         "album_id":"2",
+         "url_img":"https://cdn-imgix.headout.com/microbrands-content-image/image/4c39598de5ac2156718d098ce5e26a26-Plan%20your%20Visit.jpg?auto=format&w=713.0666666666667&h=458.4&q=90&fit=crop&ar=14%3A9",
+         "descricao":"Vaticano"
+      },
+      {
+         "id":14,
+         "album_id":"2",
+         "url_img":"https://cdn.getyourguide.com/img/location/535e42f7ac585.jpeg/99.jpg",
+         "descricao":"Fórum Romano"
+      },
+      {
+         "id":15,
+         "album_id":"2",
+         "url_img":"https://viajantesemfim.com.br/wp-content/uploads/2020/02/83763343_2683527665100320_4485675345864818688_o-800x500.jpg",
+         "descricao":"Pantheon"
+      },
+      {
+         "id":16,
+         "album_id":"2",
+         "url_img":"https://img.freepik.com/fotos-premium/vista-aerea-do-forum-romano-do-monte-palatino-roma-italia_115067-199.jpg?w=2000",
+         "descricao":"Vista do Monte Palatino"
+      }
+   ],
+   "destaques":[
+      {
+         "id":1,
+         "id_album":1,
+         "texto":""
+      },
+      {
+         "id":2,
+         "id_album":2,
+         "texto":""
+      }
+   ]
 }
